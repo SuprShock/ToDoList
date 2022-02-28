@@ -2,7 +2,7 @@
  
 ---------------------------------------------------------------------
  
-<p>O programa consiste em desenvolvimento de uma SPA, com templete <a href="https://github.com/rocketseat-education/ignite-template-reactjs-conceitos-do-react" target="_blank"> pré-definido</a> e criar as funcionalidade de:</p>
+<p>O programa consiste em desenvolvimento de uma SPA, para To Do List, com templete <a href="https://github.com/rocketseat-education/ignite-template-reactjs-conceitos-do-react" target="_blank"> pré-definido</a> e criar as funcionalidade de:</p>
 <ul><li>handleCreateNewTask</li><li>handleToggleTaskCompletion</li><li>handleRemoveTask</li></ul>
 <p>Todas as funcionalidades foram aplicadas no arquivo <a href='https://github.com/SuprShock/ToDoList/blob/main/src/components/TaskList.tsx' target="_blank">TaskList.Tsx</a>, disponivel na pasta components</p>
 
